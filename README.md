@@ -1,5 +1,6 @@
 # GoogleDriveFileManager
-Googleドライブのファイル操作用
+Googleドライブのファイル操作用。
+組み込むときは.gsファイルにテキストをコピペしてください。
 
 ## libs
 「ライブラリ」項目に追加して使用する。
